@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=sqitch-base
+
+appschema 2020-03-05T14:14:33Z Thiago Costa <thiagofernandocosta@github.io> # Add schema for all flipr objects.
